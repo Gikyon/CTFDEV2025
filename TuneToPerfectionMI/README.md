@@ -9,7 +9,9 @@ The format for this challenge is **bhbureau{...}**
 ---
 
 [Goal](#goal)
+
 [Development](#development)
+
 [Solution](#solution)
 
 ## Goal

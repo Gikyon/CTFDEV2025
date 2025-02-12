@@ -4,7 +4,9 @@
 
 ---
 [Goal](#goal)
+
 [Development](#development)
+
 [Solution](#solution)
 
 ## Goal:

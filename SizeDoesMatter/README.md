@@ -5,7 +5,9 @@ Hey there, Intern. I have to be honest, I’m not convinced you’re ready to be
 ---
 
 [Goal](#goal)
+
 [Development](#development)
+
 [Solution](#solution)
 
 ## Goal

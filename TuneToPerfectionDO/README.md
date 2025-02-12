@@ -5,7 +5,9 @@ Hey Agent, the SOC team just reported a compromised host. Fortunately, the CSIRT
 ---
 
 [Goal](#goal)
+
 [Development](#development)
+
 [Solution](#solution)
 
 ## Goal
