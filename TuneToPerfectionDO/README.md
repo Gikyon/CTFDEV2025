@@ -4,6 +4,10 @@ Hey Agent, the SOC team just reported a compromised host. Fortunately, the CSIRT
 
 ---
 
+[Goal](#goal)
+[Development](#development)
+[Solution](#solution)
+
 ## Goal
 
 In this challenge, I want to introduce the basics of **memory forensics** in a beginner-friendly way. The plan is to **hide the flag inside the command line (CLI) history**, encouraging participants to explore forensic techniques.
@@ -28,3 +32,5 @@ Finally, I tested the challenge using **Volatility Workbench** to verify if the 
 The solution involves using the **Volatility tool** to enumerate and find the **filename**. There are several ways to approach this, but one method is to check the **CLI history**.
 
 <img src=img/testing.png>
+
+**Answer: bhbureauCTF{1L1k3Fl0W3r5}**

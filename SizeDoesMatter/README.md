@@ -3,6 +3,11 @@
 Hey there, Intern. I have to be honest, I’m not convinced you’re ready to be part of our team yet—especially after that comment you made the other day, “size doesn’t matter.” Well, I’m here to show you just how much it really does! Let’s see if you’re up for proving me wrong.
 
 ---
+
+[Goal](#goal)
+[Development](#development)
+[Solution](#solution)
+
 ## Goal
 I still vaguely remember the day I attempted a challenge on **PicoCTF**. It involved **injecting a format string** into a program. I used '%x' to print the stack but was confused when the output appeared **scrambled**. Later, I realized it was due to the difference between **Big and Little Endian**. I want to show the implementation of basic computer concept to the participant.
 
